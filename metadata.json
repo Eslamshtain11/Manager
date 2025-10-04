@@ -1,0 +1,5 @@
+{
+  "name": "Student Evaluation Reporter",
+  "description": "A web application for teachers to manage student groups, evaluate students, and send evaluation reports to parents via WhatsApp.",
+  "requestFramePermissions": []
+}
